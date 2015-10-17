@@ -1,0 +1,20 @@
+﻿빌드 시작: 2015-10-17 오후 3:49:37
+     1>2 노드의 "D:\Git\MFC_BusStation\BusStation_Client\BusStation_Client.vcxproj" 프로젝트(Build 대상)입니다.
+     1>Link:
+         D:\1.Work\VS_P_2013\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:".\Debug/BusStation_Client.exe" /INCREMENTAL /NOLOGO WS2_32.lib winmm.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /manifestinput:D:\1.Work\VS_P_2013\VC\Include\Manifest\dpiaware.manifest /DEBUG /PDB:".\Debug/BusStation_Client.pdb" /SUBSYSTEM:WINDOWS /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:".\Debug\BusStation_Client.lib" /MACHINE:X86 /SAFESEH .\Debug\BusStation_Client.res
+         .\Debug/BusStation_Client.obj
+         .\Debug/BusStation_ClientDoc.obj
+         .\Debug/BusStation_ClientView.obj
+         .\Debug/MainFrm.obj
+         .\Debug/MenuBar.obj
+         .\Debug/SettingDlg.obj
+         .\Debug/StdAfx.obj
+         .\Debug/SubclassWnd.obj
+     1>BusStation_Client.obj : warning LNK4075: '/EDITANDCONTINUE'이(가) '/SAFESEH' 사양으로 인해 무시됩니다.
+     1>LINK : warning LNK4098: 'MSVCRT' defaultlib가 다른 라이브러리와 충돌합니다. /NODEFAULTLIB:library를 사용하십시오.
+         BusStation_Client.vcxproj -> D:\Git\MFC_BusStation\BusStation_Client\.\Debug\BusStation_Client.exe
+     1>"D:\Git\MFC_BusStation\BusStation_Client\BusStation_Client.vcxproj" 프로젝트를 빌드했습니다(Build 대상).
+
+빌드했습니다.
+
+경과 시간: 00:00:00.85
